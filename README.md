@@ -1,4 +1,4 @@
-### Hi there 👋
+### navigating the digital labyrinth
 
 <!--
 **altinthaqi/altinthaqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
